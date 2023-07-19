@@ -1,6 +1,6 @@
 # Wine Quality Prediction
 
-![Wine Bottles](https://example.com/wine_bottles.jpg) <!-- Replace with an image related to the project -->
+
 
 ## Table of Contents
 
